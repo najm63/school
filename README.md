@@ -1,2 +1,2 @@
 # school
-## heading
+## heading <img src="Image Address">
